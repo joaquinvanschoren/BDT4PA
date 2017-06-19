@@ -8,4 +8,7 @@ The Jupyter Notebook shows how to use OpenML to:
 - build machine learning models
 - compare it to all previous models built on that dataset
 
-Contact: j.vanschoren@tue.ml
+This uses the developer version of the Python interface. Small changes may occur.
+
+
+**Contact**: j.vanschoren@tue.ml
